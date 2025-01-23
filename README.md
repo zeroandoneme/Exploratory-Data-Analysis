@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the use of exploratory data analysis techniques to extract meaningful insights from a dataset. The analysis is performed using a Jupyter Notebook, combining data manipulation, visualization, and statistical exploration.
+This project demonstrates the use of exploratory data analysis techniques to extract meaningful insights from a dataset. The analysis is performed using a Jupyter Notebook, combining data manipulation, visualization, and statistical exploration. We pre-process + clean the dataset making it ready for model training. The model trained on this dataset will be a mulit-class classifier for 4 different breast cancer types. 
 
 ## Features
 
